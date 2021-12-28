@@ -55,7 +55,7 @@ function StoryReel() {
       <Story
         image="https://i.picsum.photos/id/690/200/300.jpg?hmac=YX9nONyDZ_zuGZ5wLOen_mxLWVHEsjpkADU43laON4M"
         profileSrc="https://www.cloudways.com/wp-content/uploads/2020/01/testimonials-mike.jpg"
-        title="Recep"
+        title="Boyle"
       />
     </div>
   );
