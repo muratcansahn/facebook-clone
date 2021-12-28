@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "facebook-clone-v3",
+    "staging": "facebook-clone-b4d1f"
+  },
+  "targets": {}
+}
