@@ -17,6 +17,6 @@ A Facebook Clone which you can sign in with your Google Account and send realtim
 - Firebase Google Authentication (Full Login)
 - React Flip Move
 - Responsive Design
-- Deploy the App LIVE on Firebase
+- Deploy the App LIVE on Amplify
 
 ![image](https://user-images.githubusercontent.com/22106880/147668990-92490c9b-0476-4316-9c27-123645127c8f.png)
